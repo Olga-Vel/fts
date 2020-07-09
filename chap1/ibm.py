@@ -1,3 +1,6 @@
+# Analysis of Financial Time Series, Ruey S. Tsay
+# Pag. 12
+
 import pandas as pd
 import numpy as np
 import scipy.stats as stats
